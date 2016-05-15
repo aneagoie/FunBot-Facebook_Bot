@@ -1,0 +1,22 @@
+{
+  "name": "n",
+  "version": "1.0.0",
+  "description": "Facebook Bot that tells you jokes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aneagoie/FunBot-Facebook_Bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aneagoie/FunBot-Facebook_Bot/issues"
+  },
+  "homepage": "https://github.com/aneagoie/FunBot-Facebook_Bot#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
