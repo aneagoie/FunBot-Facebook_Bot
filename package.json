@@ -2,7 +2,7 @@
   "name": "n",
   "version": "1.0.0",
   "description": "Facebook Bot that tells you jokes",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/aneagoie/FunBot-Facebook_Bot#readme",
   "dependencies": {
-    "express": "^4.13.4"
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "request": "^2.72.0"
   }
 }
